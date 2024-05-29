@@ -1,0 +1,19 @@
+O que é HTML?
+- HTML (HyperText Markup Language - Linguagem de Marcação de HyperTexto)
+- Os comando HTML são chamados de TAGs. As tags são palavras-chave que ficam cercadas por simbolos maior e menor < >. Ex: <hr>.. <body>..</body>
+- As tags são divididas em 2: tag simples e composta:
+as tags simples não precisam ser encerradas. Ex.:
+<hr>..  <br>..  <img>..  <meta>.. 
+Já as tags compostas precisam ser encerradas. Ex.:
+<body>...</body>  <title>...</title>
+
+As tags, tantos simples como compostas tem atributos(propriedades). Ex.:
+
+<img src="fotos.jpg" alt="foto do cliente">
+<body background ="red"... </body>
+
+Para transformar codigo em objetos, imagens, cores o navegador usa uma ferramenta chamada de motor web.
+Ele realiza o processo de renderização, que é transformar codigo em objetos.
+
+Todo arquivo HTML deve ser salvo com a extensão .HTML
+para testar um arquivo html nos o abrimos em um navegador web(Chrome, Opera, Edge, Firefox, Safari...)
