@@ -17,3 +17,19 @@ Ele realiza o processo de renderização, que é transformar codigo em objetos.
 
 Todo arquivo HTML deve ser salvo com a extensão .HTML
 para testar um arquivo html nos o abrimos em um navegador web(Chrome, Opera, Edge, Firefox, Safari...)
+
+
+
+CSS, O que é?
+
+CSS - Cascade Style Sheet(Folha de estilo em cascata)
+O CSS é utilizado para fazer formatação em páginas HTML.
+Você pode aplicar o css de 3 formas:
+    -Arquivo Externo de css
+    -Embutir o css na tag head da página html
+    -Aplicar o css diretamente na tag html desejada
+
+Há também 3 elementos de aplicação:
+    -ID - Indentificador, usamos hashtag #
+    -Class - Class, usamos ponto .
+    -Tag - Tag html 
